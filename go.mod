@@ -15,7 +15,7 @@ require (
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/google/go-github/v36 v36.0.0
 	github.com/google/go-querystring v1.1.0 // indirect
-	github.com/google/gops v0.3.18
+	github.com/google/gops v0.3.22
 	github.com/google/renameio v1.0.1
 	github.com/google/uuid v1.2.0 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
@@ -48,7 +48,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e // indirect
 	golang.org/x/net v0.0.0-20210614182718-04defd469f4e // indirect
 	golang.org/x/oauth2 v0.0.0-20210622215436-a8dc77f794b6
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
+	golang.org/x/sys v0.0.0-20210902050250-f475640dd07b
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
 	google.golang.org/protobuf v1.27.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
