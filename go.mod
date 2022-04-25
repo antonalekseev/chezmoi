@@ -14,7 +14,7 @@ require (
 	github.com/google/gops v0.3.22
 	github.com/google/renameio/v2 v2.0.0
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
-	github.com/mitchellh/mapstructure v1.4.3
+	github.com/mitchellh/mapstructure v1.5.0
 	github.com/muesli/combinator v0.3.0
 	github.com/pelletier/go-toml v1.9.4
 	github.com/rogpeppe/go-internal v1.8.1
