@@ -18,7 +18,7 @@ require (
 	github.com/muesli/combinator v0.3.0
 	github.com/pelletier/go-toml v1.9.4
 	github.com/rogpeppe/go-internal v1.8.1
-	github.com/rs/zerolog v1.26.1
+	github.com/rs/zerolog v1.28.0
 	github.com/sergi/go-diff v1.1.0
 	github.com/spf13/afero v1.8.2
 	github.com/spf13/cobra v1.4.0
@@ -71,6 +71,7 @@ require (
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
+	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.18 // indirect
