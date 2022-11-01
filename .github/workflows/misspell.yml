@@ -13,7 +13,7 @@ jobs:
     name: spellcheck
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@dcd71f646680f2efd8db4afa5ad64fdcba30e748 # pin@v3
+      - uses: actions/checkout@93ea575cb5d8a053eaa0ac8fa3b40d7e05a33cc8 # pin@v3
       - name: misspell
         uses: reviewdog/action-misspell@3347037502cd60235723196fe0084fd1c11ff33a # pin@v1
         with:
